@@ -1,7 +1,7 @@
 # EmailFilter
 
 ```bash
-$ python Stripe.py
+$ python mail.py
 ```
 
 ![](./img.png)
