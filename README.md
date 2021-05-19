@@ -1,3 +1,4 @@
+<!-- Readme File script from SirBugs -->
 # EmailFilter
 
 ```bash
